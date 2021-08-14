@@ -1,3 +1,20 @@
+# Dependency directories
+node_modules
+
+# Package lock from accidental npm installs
+package-lock.json
+
+# editor configuration
+.vscode
+.idea
+
+# misc
+.DS_Store
+.yarnrc
+
+# screenshots
+cypress/screenshots
+
 # Compiled class file
 *.class
 
