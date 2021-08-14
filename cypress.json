@@ -1,0 +1,11 @@
+{
+  "baseUrl": "https://example.cypress.io",
+  "defaultCommandTimeout": 60000,
+  "env": {},
+  "execTimeout": 1800000,
+  "pageLoadTimeout": 60000,
+  "retries": {
+    "runMode": 1,
+    "openMode": 0
+  }
+}

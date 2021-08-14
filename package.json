@@ -1,0 +1,22 @@
+{
+  "name": "cypress-automation-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://prashantk-sdet@github.com/prashantk-sdet/cypress-automation-framework.git"
+  },
+  "author": "Prashant Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashantk-sdet/cypress-automation-framework/issues"
+  },
+  "homepage": "https://github.com/prashantk-sdet/cypress-automation-framework#readme",
+  "devDependencies": {
+    "cypress": "^8.2.0"
+  }
+}
